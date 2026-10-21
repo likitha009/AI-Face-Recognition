@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.pyc
+.insightface/
+.vscode/
+dataset/
+prabhas/
+testImg/
+database/
+models/
